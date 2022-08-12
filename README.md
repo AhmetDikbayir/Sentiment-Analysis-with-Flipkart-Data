@@ -1,0 +1,2 @@
+# Sentiment-Analysis-with-Flipkart-Data
+I used Flipkart customer review about the boAt Rockerz 400. There are two columns ,which is review and rating ,and 9976 customers opinions about the headphone. And there are two columns whic they are review and ratings. I used NLTK libraries for analysis.  I used polarity score to determine the customer experience. Also, I visualized reviews by using word cloud.
